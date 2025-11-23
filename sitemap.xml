@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://georgepearse.github.io/remote-subagents/</loc>
+         <lastmod>2025-11-23</lastmod>
+    </url>
+    <url>
+         <loc>https://georgepearse.github.io/remote-subagents/development/contributing/</loc>
+         <lastmod>2025-11-23</lastmod>
+    </url>
+    <url>
+         <loc>https://georgepearse.github.io/remote-subagents/getting-started/configuration/</loc>
+         <lastmod>2025-11-23</lastmod>
+    </url>
+    <url>
+         <loc>https://georgepearse.github.io/remote-subagents/getting-started/installation/</loc>
+         <lastmod>2025-11-23</lastmod>
+    </url>
+    <url>
+         <loc>https://georgepearse.github.io/remote-subagents/reference/e2b-commands/</loc>
+         <lastmod>2025-11-23</lastmod>
+    </url>
+    <url>
+         <loc>https://georgepearse.github.io/remote-subagents/reference/tools/</loc>
+         <lastmod>2025-11-23</lastmod>
+    </url>
+    <url>
+         <loc>https://georgepearse.github.io/remote-subagents/usage/basic/</loc>
+         <lastmod>2025-11-23</lastmod>
+    </url>
+    <url>
+         <loc>https://georgepearse.github.io/remote-subagents/usage/examples/</loc>
+         <lastmod>2025-11-23</lastmod>
+    </url>
+</urlset>
