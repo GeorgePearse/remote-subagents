@@ -1,0 +1,27 @@
+{
+  "name": "remote-subagents",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/GeorgePearse/remote-subagents/issues"
+  },
+  "homepage": "https://github.com/GeorgePearse/remote-subagents#readme",
+  "dependencies": {
+    "@e2b/code-interpreter": "^2.2.0",
+    "@modelcontextprotocol/sdk": "^1.22.0",
+    "dotenv": "^17.2.3",
+    "zod": "^4.1.12"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
